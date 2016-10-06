@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1012219961600",
+    "firebase_url": "https://image-d3510.firebaseio.com",
+    "project_id": "image-d3510",
+    "storage_bucket": "image-d3510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012219961600:android:98bd8c713528181f",
+        "android_client_info": {
+          "package_name": "com.naren.lab6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012219961600-cd0a5dsjeabcfu9uq1njffsq0024l1je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5mDKEyfCkjbGiqJCsZ3e_dRYe6d1yKDA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
